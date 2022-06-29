@@ -3,6 +3,10 @@
   padding: 0;
   box-sizing: border-border-box;
   font-family: 'poppins', sans-serif;
+  ackground-image: url(https://i.pinimg.com/originals/79/a3/84/79a384c3c449ad01b0e57e790807b2c0.gif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size:70%;
 }
 
 .header{
