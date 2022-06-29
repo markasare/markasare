@@ -87,15 +87,11 @@ nav ul li a:hover{
 }
 
 .user-img{
-  width: 600px;
+  width: 300px;
   position: absolute;
-  right: 15%;
+  right: 30%;
   bottom: 0;
 }
 span{
   color: #fff724;
-}
-
-.navbar-inverse{
-  color: #000000;
 }
